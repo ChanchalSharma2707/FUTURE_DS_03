@@ -120,6 +120,22 @@ The analysis helps understand customer behavior, evaluate marketing campaign per
 * `README.md` – Project documentation
 
 ---
+🏢 Internship Details
+
+Organization: Future Interns
+
+Internship: Data Science & Analytics Internship
+
+Task: Task 3
+
+Project ID: FUTURE_DS_03
+
+Project: Bank Marketing Analysis
+
+Primary Tool: Microsoft Power BI
+
+
+---
 
 ## 👩‍💻 Author
 
