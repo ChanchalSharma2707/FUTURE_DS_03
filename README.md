@@ -96,10 +96,10 @@ The dashboard includes filters for:
 ## 📸 Dashboard Preview
 
 ### Dashboard Screenshot 1
-Bank Full screenshot.png
+Bank%20Full%20screenshot.png
 
 ### Dashboard Screenshot 2
-Bank Full screenshot (2).png
+Bank%20Full%20screenshot%20%282%29.png
 ---
 
 ## 🎯 Project Objective
