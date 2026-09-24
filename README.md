@@ -93,13 +93,15 @@ The dashboard includes filters for:
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Screenshots
 
-### Dashboard Screenshot 1
-Bank%20Full%20screenshot.png
+### Bank Full Dashboard
 
-### Dashboard Screenshot 2
-Bank%20Full%20screenshot%20%282%29.png
+<img src="./Bank%20Full%20screenshot.png" alt="Bank Full Dashboard" width="100%">
+
+### Bank Full Dashboard - 2
+
+<img src="./Bank%20Full%20screenshot%20%282%29.png" alt="Bank Full Dashboard 2" width="100%">
 ---
 
 ## 🎯 Project Objective
